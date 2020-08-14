@@ -1,0 +1,28 @@
+_repo: Gibson-New-Cartoons-A-book-of-Charles-Dana-Gibson-s-latest-drawings_62865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
+description: ''
+gutenberg_issued: '2020-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62865'
+  lccn: '16022406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caricatures and cartoons -- United States'
+- !lcsh 'American wit and humor, Pictorial'
+- !lcc 'NC'
+- GITenberg
+title: 'Gibson: New Cartoons; A book of Charles Dana Gibson''s latest drawings'
+url: http://www.gutenberg.org/ebooks/62865
